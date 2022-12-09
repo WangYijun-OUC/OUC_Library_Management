@@ -1,0 +1,8 @@
+﻿  User.cpp
+D:\SystemDesignAndDevelop\新建文件夹\LibraryManagerSystem10-24(2)\LibraryManagerSystem10-24\User.cpp(510,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\SystemDesignAndDevelop\新建文件夹\LibraryManagerSystem10-24(2)\LibraryManagerSystem10-24\User.cpp(522,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\SystemDesignAndDevelop\新建文件夹\LibraryManagerSystem10-24(2)\LibraryManagerSystem10-24\User.cpp(588,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\SystemDesignAndDevelop\新建文件夹\LibraryManagerSystem10-24(2)\LibraryManagerSystem10-24\User.cpp(606,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\SystemDesignAndDevelop\新建文件夹\LibraryManagerSystem10-24(2)\LibraryManagerSystem10-24\User.cpp(627,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\SystemDesignAndDevelop\新建文件夹\LibraryManagerSystem10-24(2)\LibraryManagerSystem10-24\User.cpp(369): warning C4715: “find_user_locate”: 不是所有的控件路径都返回值
+  Manager.vcxproj -> D:\SystemDesignAndDevelop\新建文件夹\LibraryManagerSystem10-24(2)\LibraryManagerSystem10-24\Debug\Manager.exe
